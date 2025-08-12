@@ -1,0 +1,1 @@
+  python one.py --server <AD_SERVER> --domain <DOMAIN> --base-dn "<BASE_DN>" -------------> to test
